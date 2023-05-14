@@ -2,8 +2,9 @@
 
 Merge sorted arrays with unit test
 
-## Installation
 
+
+## Installation
 
 Clone this project from GitHub repository
 
@@ -28,4 +29,13 @@ Execute test-cases
 
 ```sh
 npm test 
+```
+
+## Project Structure
+```
+📦 pretest-merge-sorted-arrays
+└─ src
+   ├─ app.test.ts   // test script here 📄
+   ├─ app.ts        // logic here 
+   └─  ...
 ```
