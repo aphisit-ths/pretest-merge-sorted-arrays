@@ -53,3 +53,11 @@ export function mergeAndSortArrays(collection: number[], collection2: number[]):
         throw e
     }
 }
+
+const col1 = [1,3,5,7,9,]
+const col2 = [2,4,6,8,10]
+
+console.log("thank you very much for your attention and consideration to my application ☺️ ")
+console.log("collection 1 : " ,col1)
+console.log("collection 2 : " ,col2)
+console.log("merged result :",mergeAndSortArrays(col1 ,col2))
