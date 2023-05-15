@@ -54,7 +54,7 @@ export function mergeSortedArrays(collection: number[], collection2: number[]): 
     }
 }
 
-const col1 = [1,3,5,7,9,]
+const col1 = [1,3,5,7,9]
 const col2 = [2,4,6,8,10]
 
 console.log("thank you very much for your attention and consideration to my application ☺️ ")
